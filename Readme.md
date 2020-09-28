@@ -11,4 +11,8 @@ for test you code use this values:
 	b = 217519 
 	c = 414560 
 	d = 422481
-	
+
+## Submit instruction
+Fork this repo and modify it in your own account. Then send an email to **nikneshan at**, *baregheh.com*.
+
+Regards,
