@@ -1,8 +1,12 @@
 # Question 1
+There is an equation:
 
-This code will calculate a^4+b^4+c^4=d^4
+![a^4+b^4+c^4=d^4](.Readme_Images/a4.png)
+
+The code in `main.cpp` will find all values matches this eqation for 1<a<100000,1<b<300000,1<c<500000,1<d<500000.
 
 Please optimize this code.
+
 If you do multiply optimization please consider to use different commit with complete explanation.
 
 for test you code use this values:
