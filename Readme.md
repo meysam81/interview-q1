@@ -1,9 +1,14 @@
 # Question 1
 There is an equation:
 
-![a^4+b^4+c^4=d^4](.Readme_Images/a4.png)
+![](a4.png)
 
-The code in `main.cpp` will find all values matches this eqation for 1<a<100000,1<b<300000,1<c<500000,1<d<500000.
+The code in `main.cpp` will find all values matches this eqation for 
+
+    1<a<100000,
+    1<b<300000,
+    1<c<500000  and
+    1<d<500000.
 
 Please optimize this code.
 
